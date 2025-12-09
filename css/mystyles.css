@@ -1,0 +1,24 @@
+body{
+    font-family: "Comic Sans MS" ;
+    background-color: bisque;
+}
+h1{
+    font-family: "Comic Sans MS";
+}
+.customFont{
+    font-family: "Comic Sans MS" ;
+}
+
+h2{ 
+    color: purple
+    background-color: cadetblue;
+
+}
+
+.imageCustom{
+    width: 405;
+    left: 0;
+    right: 0;
+    text-align:center;
+}
+
